@@ -1,0 +1,26 @@
+Script started on 2024-12-06 12:38:24+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="116" LINES="50"]
+                                                                                                                    ]0;fadil@kali: ~/Masterlab[0m[27m[24m[J[32m┌──([1m[32m[34mfadil㉿kali[0m[34m[32m)-[[1m[32m[39m~/Masterlab[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153ms[39m[36ml[36ms[39m[?1l>[?2004l
+[0m[01;34mconteneur1[0m  master.txt  README.md  save2.log  save_terminal.log
+                                                                                                                    ]0;fadil@kali: ~/Masterlab
+[0m[27m[24m[J[32m┌──([1m[32m[34mfadil㉿kali[0m[34m[32m)-[[1m[32m[39m~/Masterlab[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mr[39m[39m[4mr[4me[24m[24m[36mr[39m[24m [36mr[36mm[39m [1ms[0m[1ms[1ma[0m[1ma[1mv[0m[1mv[1me[0m[0ms[0ma[0mv[0me
+Completing file
+[J[0msave2.log          [Jsave_terminal.log[J[A[A[0m[27m[24m[0m[39m[4C[36mrm[39m save[K[0m[39m[1ms[1ma[1mv[1me[0m[?1l>[?2004l[0ms[0ma[0mv[0me
+[Jrm: impossible de supprimer 'save': Aucun fichier ou dossier de ce nom
+                                                                                                                    ]0;fadil@kali: ~/Masterlab
+[0m[27m[24m[J[32m┌──([1m[32m[34mfadil㉿kali[0m[34m[32m)-[[1m[32m[39m~/Masterlab[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mrm[39m [1msave[0m[0ms[0ma[0mv[0me
+Completing file
+[J[0msave2.log          [Jsave_terminal.log[J[A[A[0m[27m[24m[0m[39m[4C[36mrm[39m save[K[0m[39m[1ms[1ma[1mv[1me[0m[?1l>[?2004l[0ms[0ma[0mv[0me
+[Jrm: impossible de supprimer 'save': Aucun fichier ou dossier de ce nom
+                                                                                                                    ]0;fadil@kali: ~/Masterlab
+[0m[27m[24m[J[32m┌──([1m[32m[34mfadil㉿kali[0m[34m[32m)-[[1m[32m[39m~/Masterlab[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mrm[39m [1msave[0m[1me[1m_[0m[1m_[1mterminal.log[0m[1m [0m[0m [?1l>[?2004l
+                                                                                                                    ]0;fadil@kali: ~/Masterlab
+[0m[27m[24m[J[32m┌──([1m[32m[34mfadil㉿kali[0m[34m[32m)-[[1m[32m[39m~/Masterlab[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153ms[39m[36ml[36ms[39m[?1l>[?2004l
+[0m[01;34mconteneur1[0m  master.txt  README.md  save2.log
+                                                                                                                    ]0;fadil@kali: ~/Masterlab
+[0m[27m[24m[J[32m┌──([1m[32m[34mfadil㉿kali[0m[34m[32m)-[[1m[32m[39m~/Masterlab[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mls[39m[36mr[36mm[39m save_terminal.log[17D[1ms[1ma[1mv[1me[0m             [13D[36ml[36ms[39m [0m [0m [0m [0m [36mn[36ma[36mno[39m pg.c[9D[36mg[36mc[36mc[39m[39m pg.c [32m-o[39m pg[14D[36mn[36ma[36mn[36mo[39m pg.c[39m [39m    [9D[36mg[36mc[36mc[39m[39m pg.c [32m-o[39m pg[14D[36mn[36ma[36mn[36mo[39m pg.c[39m [39m    [9D[36mg[36mc[36mc[39m[39m pg.c [32m-o[39m pg[14D[36mn[36ma[36mn[36mo[39m pg.c[39m [39m    [9D[36mg[36mc[36mc[39m[39m pg.c [32m-o[39m pg[14D[36mn[36ma[36mn[36mo[39m pg.c[39m [39m    [9D[36mg[36mc[36mc[39m[39m pg.c [32m-o[39m pg[14D[39m[4m.[39m[4m/[39m[4mp[4mg[24m     [39m [39m    [10D[24m[36mg[24m[36mc[24m[36mc[39m[24m pg.c [32m-o[39m pg[14D[36mn[36ma[36mn[36mo[39m pg.c[39m [39m    [9D[36mg[36mc[36mc[39m[39m pg.c [32m-o[39m 
